@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">摇骰子</string>
+    <string name="roll_dice_text">摇骰子</string>
+</resources>
